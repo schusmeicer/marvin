@@ -1,4 +1,4 @@
 function nomeDeVolta(){
     console.log("Marvin")
-    return "O android paranóide"
+    return "O andróide paranóide"
 }
